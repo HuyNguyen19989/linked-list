@@ -1,0 +1,15 @@
+{
+  "name": "singly-linked-list",
+  "version": "1.0.0",
+  "description": "Singly linked list test project",
+  "main": "singly-linked-list.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
